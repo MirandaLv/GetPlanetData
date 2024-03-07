@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bounding2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 7678.0034252799996, "Shape_Area": 3139134.7096600002, "width": 0.03216, "height": 0.017078, "area": 0.000549, "perimeter": 0.098478 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 150.848043304666334, -34.545518994773225 ], [ 150.880203771541261, -34.545518994773225 ], [ 150.880203771541261, -34.528440571621317 ], [ 150.848043304666334, -34.528440571621317 ], [ 150.848043304666334, -34.545518994773225 ] ] ] } }
+]
+}
